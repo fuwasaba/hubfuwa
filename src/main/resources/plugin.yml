@@ -1,0 +1,8 @@
+name: hubfuwa
+version: '${project.version}'
+main: com.keikun1215.hubfuwa.Hubfuwa
+api-version: 1.18
+commands:
+  hub:
+    description: Teleport to HUB or open HUB GUI
+    usage: /hub [gui|info]
